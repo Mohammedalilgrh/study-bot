@@ -1,6 +1,0 @@
-{
-  "env": {
-    "ANTHROPIC_BASE_URL": "http://127.0.0.1:20128",
-    "ANTHROPIC_API_KEY": "sk-853cf5ce8903ce4b-a859c2-95627be0"
-  }
-}
